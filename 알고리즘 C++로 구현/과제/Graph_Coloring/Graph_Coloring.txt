@@ -1,0 +1,18 @@
+Graph Coloring
+1. Algorithm 5.5 The Backtracking Algorithm for the m-Coloring Problem을 교재 pesudo code에 충실하게 구현
+
+2. 구현 언어는 자유
+
+3. 교재의 입력 데이터(Figure 5.10, when m=3)로 테스트
+
+4. 임의의 자작 입력 데이터를 생성
+
+5. 이 데이터를 기반으로 각 알고리즘의 과정을 손계산하여 보고서 내에 삽입
+
+	- non-promising한 노드에는 figure 5.12처럼 노드 밑에 x 표시
+
+	- 방문하지 않는 노드는 그리지 마시오. 
+
+6. 자작 입력 데이터를 가지고 프로그램을 다시 한번 테스트
+
+7. (이 모든 과정을 충실해 수행했음을 보여주는)보고서와 소스코드들을 압축하여 학번_이름.zip으로 압축하여 제출
